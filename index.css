@@ -1,0 +1,51 @@
+html, body {
+    margin: 0;
+    padding: 20px 0;
+    background: #1F2937;
+    font-family: 'Inter','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    
+}
+
+h1 {
+    font-family: 'Karla', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    line-height: 40px;
+    letter-spacing: -2.5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+header {
+    margin: 20px;
+}
+
+.emphasis {
+    color: #4ADF86;
+}
+
+button {
+    background: #10B981;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 15px;
+}
+
+.generated-password {
+    width: 211px;
+    margin-top: 15px;
+    padding: 2px 10px;
+    background: #273549;
+    text-align: center;
+    font-size: 16px;
+    line-height: 32px;
+    color: #55F991;
+    border-radius: 5px;
+}
